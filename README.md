@@ -20,7 +20,7 @@ This program enables formatted output to the standard output stream, similar to 
 
 ### Prerequisites
 
-- C compiler (e.g., `gcc`)
+- C compiler
 - Make
 - A Unix-based operating system
 
