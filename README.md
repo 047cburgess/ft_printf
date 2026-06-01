@@ -8,6 +8,18 @@
 
 This program enables formatted output to the standard output stream, similar to the `printf` function provided by the C standard library `stdio.h`. The `ft_printf` project is essential for gaining a deeper understanding of variadic functions and handling modular code.
 
+## ⚠️ Disclaimer
+
+This project adheres to the school's strict **Norminette** coding standards.
+The code has been left in its original submitted state as much as possible to show my development over time.
+Some example **Norminette** constraints:
+
+- **Line length**: Maximum 80 characters per line
+- **Function parameters**: Maximum 4 parameters per function
+- **Function size**: Maximum 25 lines per function
+- **Variable declaration**: Must be separated from initialization
+- **Loops**: No for or do-while loops
+
 ### Key Features
 
 - Supports a variety of format specifiers: `%c`, `%s`, `%p`, `%d`, `%i`, `%u`, `%x`, `%X`, and `%%`.
